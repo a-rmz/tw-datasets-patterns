@@ -7,8 +7,8 @@ Search for text patterns in Twitter datasets
 
 * Install [Sdkman](http://sdkman.io/). This command will help you install dependencies.
 * Install the Kotlin CLI and Gradle:
- * `sdk install kotlin`
- * `sdk install gradle`
+  * `sdk install kotlin`
+  * `sdk install gradle`
 * Run `gradle build` (just the first time)
 * To run everytime, run `gradle clean run`, where:
   * `clean` is to clean previous builds and avoid conflicts
